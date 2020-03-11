@@ -14,7 +14,7 @@
     "boilerplate",
     "hmr"
   ],
-  "author": "JSDarkCode <jsdarkcode@gmail.com>",
+  "author": "Tania Rascia <tania@taniarascia.com>, JSDarkCode <jsdarkcode@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.5.5",
